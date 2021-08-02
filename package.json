@@ -1,7 +1,10 @@
 {
   "name": "layouts",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "description": "Utitily for creating responsive and resizable layouts",
+  "repository": "1",
+  "author": "Ermukhanov Vladimir <ermuhanoff@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
